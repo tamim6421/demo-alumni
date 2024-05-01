@@ -23,7 +23,7 @@ const Navbar = () => {
           </div>
 
           <div>
-          <h1 className=" text-3xl md:text-5xl font-medium">Department of Statistics</h1>
+          <h1 className=" text-3xl md:text-7xl font-medium">Department of Statistics</h1>
           <h3 className=" text-xl md:text-3xl my-2">Faculty of Science</h3>
           <h2 className="text-2xl md:text-4xl font-medium ">University of Dhaka</h2>
           </div>
