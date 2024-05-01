@@ -1,7 +1,7 @@
 
-import React from 'react';
 import SubMenu from './subMenu/page';
 
+import React from "react";
 
 const MainHome = () => {
 
